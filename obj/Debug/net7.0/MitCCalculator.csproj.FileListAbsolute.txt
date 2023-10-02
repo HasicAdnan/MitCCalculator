@@ -1,0 +1,14 @@
+C:\Users\HP\RiderProjects\MitCCalculator\MitCCalculator\obj\Debug\net7.0\MitCCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\RiderProjects\MitCCalculator\MitCCalculator\obj\Debug\net7.0\MitCCalculator.AssemblyInfoInputs.cache
+C:\Users\HP\RiderProjects\MitCCalculator\MitCCalculator\obj\Debug\net7.0\MitCCalculator.AssemblyInfo.cs
+C:\Users\HP\RiderProjects\MitCCalculator\MitCCalculator\obj\Debug\net7.0\MitCCalculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\RiderProjects\MitCCalculator\MitCCalculator\bin\Debug\net7.0\MitCCalculator.exe
+C:\Users\HP\RiderProjects\MitCCalculator\MitCCalculator\bin\Debug\net7.0\MitCCalculator.deps.json
+C:\Users\HP\RiderProjects\MitCCalculator\MitCCalculator\bin\Debug\net7.0\MitCCalculator.runtimeconfig.json
+C:\Users\HP\RiderProjects\MitCCalculator\MitCCalculator\bin\Debug\net7.0\MitCCalculator.dll
+C:\Users\HP\RiderProjects\MitCCalculator\MitCCalculator\bin\Debug\net7.0\MitCCalculator.pdb
+C:\Users\HP\RiderProjects\MitCCalculator\MitCCalculator\obj\Debug\net7.0\MitCCalculator.dll
+C:\Users\HP\RiderProjects\MitCCalculator\MitCCalculator\obj\Debug\net7.0\refint\MitCCalculator.dll
+C:\Users\HP\RiderProjects\MitCCalculator\MitCCalculator\obj\Debug\net7.0\MitCCalculator.pdb
+C:\Users\HP\RiderProjects\MitCCalculator\MitCCalculator\obj\Debug\net7.0\MitCCalculator.genruntimeconfig.cache
+C:\Users\HP\RiderProjects\MitCCalculator\MitCCalculator\obj\Debug\net7.0\ref\MitCCalculator.dll
